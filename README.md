@@ -1,16 +1,21 @@
-## Hi there 👋
+<h1>Olá, eu sou o Nuno 👋</h1>
 
-<!--
-**MrNuno/MrNuno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>💻 Sou um entusiasta da tecnologia e da aprendizagem contínua.</h3>
 
-Here are some ideas to get you started:
+<h2>🌱 Atualmente a estudar</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- JavaScript
+- Linux
+- Linha de comandos (CLI)
+
+<h2>🎯 Áreas de interesse</h2>
+
+- Segurança da Informação
+- Hacking Ético
+- Redes de Computadores
+- Inteligência Artificial
+
+<h2>🛠️ Tecnologias e Ferramentas</h2>
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux" />
+</p>
