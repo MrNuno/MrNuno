@@ -19,7 +19,7 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,linux,python" />
 </p>
 
 ## GitHub Stats
