@@ -9,6 +9,7 @@
 - JavaScript
 - Linux
 - Linha de comandos (CLI)
+- Python
 
 ## 🎯 Áreas de interesse
 
