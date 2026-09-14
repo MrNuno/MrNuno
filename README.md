@@ -6,7 +6,6 @@
 
 ## 🌱 Atualmente a estudar
 
-- JavaScript
 - Linux
 - Linha de comandos (CLI)
 - Python
